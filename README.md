@@ -8,7 +8,7 @@
 - 经验证，ubuntu18和16都能正常运行
 
 
-### 技术方案
+### 安装依赖
   pip install -r requirement.txt
 
 
