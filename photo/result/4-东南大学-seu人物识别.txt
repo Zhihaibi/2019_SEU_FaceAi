@@ -1,0 +1,4 @@
+number 1:性别：male
+number 2:性别：male
+number 3 is Tom:性别：female 年龄：20  肤色：a little white  姿势：sit 位置：Tom在最左边，且在number2的旁边
+五官特征被描绘在图像框中

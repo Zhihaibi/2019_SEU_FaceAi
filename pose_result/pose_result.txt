@@ -1,0 +1,314 @@
+﻿
+0000_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.4305555555555556
+2
+hip_knee_d / neck_hip_d: 0.3918918918918919
+3
+hip_knee_d / neck_hip_d: 0.48484848484848486
+4
+hip_knee_d / neck_hip_d: 0.5
+5
+6
+hip_knee_d / neck_hip_d: 0.32857142857142857
+7
+hip_knee_d / neck_hip_d: 0.625
+8
+9
+hip_knee_d / neck_hip_d: 1.7333333333333334
+
+
+0001_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.4857142857142857
+2
+hip_knee_d / neck_hip_d: 0.32
+3
+hip_knee_d / neck_hip_d: 0.5
+4
+hip_knee_d / neck_hip_d: 0.4696969696969697
+5
+hip_knee_d / neck_hip_d: 0.3142857142857143
+6
+hip_knee_d / neck_hip_d: 0.5862068965517241
+7
+8
+9
+10
+
+0002_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.3333333333333333
+2
+hip_knee_d / neck_hip_d: 0.5211267605633803
+3
+hip_knee_d / neck_hip_d: 0.4507042253521127
+4
+hip_knee_d / neck_hip_d: 0.45588235294117646
+5
+hip_knee_d / neck_hip_d: 0.323943661971831
+6
+7
+hip_knee_d / neck_hip_d: 0.5689655172413793
+8
+9
+hip_knee_d / neck_hip_d: 1.7727272727272727
+
+0003_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.32894736842105265
+2
+hip_knee_d / neck_hip_d: 0.4714285714285714
+3
+hip_knee_d / neck_hip_d: 0.4794520547945205
+4
+hip_knee_d / neck_hip_d: 0.4626865671641791
+5
+6
+hip_knee_d / neck_hip_d: 1.7333333333333334
+7
+hip_knee_d / neck_hip_d: 0.30985915492957744
+8
+hip_knee_d / neck_hip_d: 0.5964912280701754
+9
+10
+
+0004_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.4305555555555556
+2
+hip_knee_d / neck_hip_d: 0.2894736842105263
+3
+hip_knee_d / neck_hip_d: 0.4657534246575342
+4
+hip_knee_d / neck_hip_d: 0.4626865671641791
+5
+hip_knee_d / neck_hip_d: 1.7954545454545454
+6
+hip_knee_d / neck_hip_d: 0.6071428571428571
+7
+8
+hip_knee_d / neck_hip_d: 0.2916666666666667
+9
+10
+
+0005_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.45714285714285713
+2
+3
+hip_knee_d / neck_hip_d: 0.4025974025974026
+4
+hip_knee_d / neck_hip_d: 0.5714285714285714
+5
+6
+hip_knee_d / neck_hip_d: 0.47761194029850745
+7
+hip_knee_d / neck_hip_d: 0.3333333333333333
+8
+hip_knee_d / neck_hip_d: 0.3194444444444444
+9
+hip_knee_d / neck_hip_d: 0.24242424242424243
+
+
+0006_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.38961038961038963
+2
+3
+hip_knee_d / neck_hip_d: 0.4507042253521127
+4
+hip_knee_d / neck_hip_d: 0.3815789473684211
+5
+hip_knee_d / neck_hip_d: 0.463768115942029
+6
+hip_knee_d / neck_hip_d: 0.631578947368421
+7
+8
+9
+hip_knee_d / neck_hip_d: 0.2727272727272727
+
+
+0007_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.45714285714285713
+2
+3
+hip_knee_d / neck_hip_d: 0.4189189189189189
+4
+hip_knee_d / neck_hip_d: 0.6727272727272727
+5
+hip_knee_d / neck_hip_d: 0.31645569620253167
+6
+hip_knee_d / neck_hip_d: 1.4313725490196079
+7
+hip_knee_d / neck_hip_d: 0.27848101265822783
+8
+hip_knee_d / neck_hip_d: 0.4225352112676056
+9
+10
+
+
+
+
+0008_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.3972602739726027
+2
+hip_knee_d / neck_hip_d: 0.4246575342465753
+3
+4
+5
+hip_knee_d / neck_hip_d: 0.631578947368421
+6
+7
+hip_knee_d / neck_hip_d: 0.43661971830985913
+8
+hip_knee_d / neck_hip_d: 0.38271604938271603
+9
+hip_knee_d / neck_hip_d: 0.2875
+
+
+0009_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.4788732394366197
+2
+hip_knee_d / neck_hip_d: 0.4444444444444444
+3
+4
+hip_knee_d / neck_hip_d: 0.8135593220338984
+5
+hip_knee_d / neck_hip_d: 0.5538461538461539
+6
+7
+hip_knee_d / neck_hip_d: 0.4520547945205479
+8
+hip_knee_d / neck_hip_d: 0.3888888888888889
+9
+
+
+0010_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.4782608695652174
+2
+hip_knee_d / neck_hip_d: 0.4262295081967213
+3
+4
+hip_knee_d / neck_hip_d: 0.847457627118644
+5
+hip_knee_d / neck_hip_d: 0.4166666666666667
+6
+hip_knee_d / neck_hip_d: 0.847457627118644
+7
+8
+hip_knee_d / neck_hip_d: 0.43243243243243246
+9
+hip_knee_d / neck_hip_d: 0.546875
+10
+
+
+0011_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.423728813559322
+2
+hip_knee_d / neck_hip_d: 0.47058823529411764
+3
+hip_knee_d / neck_hip_d: 0.39705882352941174
+4
+5
+hip_knee_d / neck_hip_d: 0.546875
+6
+7
+hip_knee_d / neck_hip_d: 0.864406779661017
+8
+hip_knee_d / neck_hip_d: 0.4
+9
+
+
+
+
+0012_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.4727272727272727
+2
+hip_knee_d / neck_hip_d: 0.43661971830985913
+3
+hip_knee_d / neck_hip_d: 0.9016393442622951
+4
+5
+hip_knee_d / neck_hip_d: 0.40789473684210525
+6
+7
+hip_knee_d / neck_hip_d: 0.4461538461538462
+8
+
+0013_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.2962962962962963
+2
+hip_knee_d / neck_hip_d: 1.0571428571428572
+3
+hip_knee_d / neck_hip_d: 0.11267605633802817
+4
+5
+hip_knee_d / neck_hip_d: 0.33707865168539325
+6
+7
+hip_knee_d / neck_hip_d: 0.20588235294117646
+8
+hip_knee_d / neck_hip_d: 0.34328358208955223
+9
+10
+
+0014_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.24691358024691357
+2
+3
+hip_knee_d / neck_hip_d: 0.043478260869565216
+4
+hip_knee_d / neck_hip_d: 0.9846153846153847
+5
+6
+7
+hip_knee_d / neck_hip_d: 0.3218390804597701
+8
+hip_knee_d / neck_hip_d: 0.27692307692307694
+9
+hip_knee_d / neck_hip_d: 0.5614035087719298
+
+
+0015_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.21052631578947367
+2
+3
+hip_knee_d / neck_hip_d: 0.058823529411764705
+4
+5
+hip_knee_d / neck_hip_d: 0.27906976744186046
+6
+hip_knee_d / neck_hip_d: 0.21666666666666667
+7
+hip_knee_d / neck_hip_d: 0.22950819672131148
+8
+
+0016_color.jpg
+1
+hip_knee_d / neck_hip_d: 0.18055555555555555
+2
+3
+hip_knee_d / neck_hip_d: 0.24390243902439024
+4
+5
+6
+hip_knee_d / neck_hip_d: 0.19298245614035087
+7
+hip_knee_d / neck_hip_d: 0.04838709677419355
+8
+hip_knee_d / neck_hip_d: 0.42105263157894735
+9
+hip_knee_d / neck_hip_d: 0.21052631578947367
+
+
+
